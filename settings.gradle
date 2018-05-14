@@ -1,0 +1,1 @@
+include ':app', ':kinds-annotation', ':kinds-activity', 'kinds-compiler', 'kinds-register'
